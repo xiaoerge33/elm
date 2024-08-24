@@ -1,3 +1,8 @@
+/**
+ * 变量：elmck: 必填，账号cookie
+ * cron: 13 0,8,10,14,18,22 * * *
+ */
+const $ = new Env('饿了么饿了个饿');
 const {
   sign,
   getToken,
