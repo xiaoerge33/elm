@@ -1,3 +1,10 @@
+/**
+ * 变量：elmck: 必填，账号cookie
+ * cron: 33 0,8,10,14,18,22 * * *
+ */
+
+
+const $ = new Env('饿了么2048');
 const {
   sign,
   getToken,
