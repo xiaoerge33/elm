@@ -4,8 +4,6 @@
  * 需要手动玩到四级才能跑
  */
 
-const $ = new Env('饿了么梦幻小院');
-
 const {
     "getToken": getToken,
     "tryCatchPromise": tryCatchPromise,
