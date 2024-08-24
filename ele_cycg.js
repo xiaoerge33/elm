@@ -4,7 +4,7 @@
  */
 
 
-const $ = new Env('饿了么2048');
+const $ = new Env('成语闯关');
 const {
   sign,
   getToken,
