@@ -1,12 +1,3 @@
-/**
- * 变量：elmck: 必填，账号cookie
- * cron: 57 0,8,10,14,18,22 * * *
- */
-
-
-const $ = new Env('贪吃蛇');
-
-
 import os
 import re
 import time
